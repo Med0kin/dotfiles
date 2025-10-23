@@ -1,0 +1,17 @@
+[general]
+import = ["/home/med/.config/alacritty/themes/rose-pine.toml"]
+
+[font]
+size = 20.0
+[font.normal]
+family = "0xProto"
+style = "Regular"
+
+[window]
+opacity = 0.9
+
+
+[window.padding]
+x = 20
+y = 20
+
